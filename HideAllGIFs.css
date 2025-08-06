@@ -1,0 +1,3 @@
+div[class*="inlineMediaEmbed"]:has(div[aria-label="GIF"]) {
+    display: none;
+}
